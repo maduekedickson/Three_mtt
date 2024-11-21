@@ -3,8 +3,8 @@ import streamlit as st
 def run():
     # Home Page Section
     st.title("🖱️Team Rite Click🖱️")
-    st.subheader("2024 Digital Nigeria Innovation Challenge: Stage 3")
-    st.markdown("### Hospital Digital Map with Grid Code App")
+    st.subheader("Nigeria Hospital Data Visualization on Map")
+    st.markdown("## And Grid Code App")
     
     st.markdown("""
         ### Instructions:
